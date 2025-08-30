@@ -1,0 +1,1 @@
+# azure-terms-of-service
